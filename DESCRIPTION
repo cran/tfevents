@@ -1,6 +1,6 @@
 Package: tfevents
 Title: Write Events for 'TensorBoard'
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: c(
     person("Daniel", "Falbel", email = "daniel@posit.co", role = c("aut", "cre", "cph")),
     person(family = "Posit, PBC", role = c("cph")),
@@ -25,11 +25,11 @@ BugReports: https://github.com/mlverse/tfevents/issues
 Config/testthat/edition: 3
 Config/Needs/website: tensorflow, webshot2, keras
 NeedsCompilation: yes
-Packaged: 2023-02-13 10:07:49 UTC; dfalbel
+Packaged: 2023-03-06 08:37:35 UTC; dfalbel
 Author: Daniel Falbel [aut, cre, cph],
   Posit, PBC [cph],
   The tl::optional authors [cph] (For the vendored tl::optional code.),
   Mark Adler [cph] (For the included crc32c code.)
 Maintainer: Daniel Falbel <daniel@posit.co>
 Repository: CRAN
-Date/Publication: 2023-02-14 09:40:02 UTC
+Date/Publication: 2023-03-07 08:00:02 UTC
