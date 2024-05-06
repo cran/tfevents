@@ -1,11 +1,11 @@
-1505717c26724ea960869fff133990be *DESCRIPTION
+d9f2a5f555f71368295e780bc0103519 *DESCRIPTION
 4d97395fade308e18858086e66472626 *LICENSE
 66630e9385c42699bd0f38eba1ae4c78 *NAMESPACE
-315de50e0808eda96659f32ad6a91c0c *NEWS.md
+5afc22b87d659832abcedeabde3535ee *NEWS.md
 38f1f80bdbad242a15e0620fe3f550d0 *R/RcppExports.R
 ed2ded4152afb6e63c78636b800703b1 *R/audio.R
 acc27f2812520a9bd2f4c3996eb86534 *R/event_writer.R
-4013cb7eec73bd3bbc2ee43cae76d030 *R/events.R
+39ab513c76d5df785621228638f38afa *R/events.R
 e4575dc8284d907c409189e796acf6db *R/histogram.R
 5458871e42ee9736ad8f67291ba5d2d3 *R/hparams.R
 f071cfc8563cdbd4d80b735f997ef5b7 *R/image.R
@@ -17,14 +17,14 @@ f071cfc8563cdbd4d80b735f997ef5b7 *R/image.R
 74879e664aa5c9c131a5d11cbc61f732 *R/text.R
 227df56a7b98e8b7658578f1e7981a9f *R/utils-pipe.R
 4a80ba6abc898fde21a8649b1a7da6ba *R/utils.R
-a4143aacde819e2649cee22e21aa389e *README.md
+c40e5b03125386afcfc0247ff43475d0 *README.md
 68b329da9893e34099c7d8ad5cb9c940 *cleanup
-b0bd5989d94fd0f4b4a4458ca099fe91 *configure
+f9b834a479cee6d7ad195df955301954 *configure
 d41d8cd98f00b204e9800998ecf8427e *configure.win
 c9a2b96ec70205e9b8fa6fa26fdf14da *man/as_event.Rd
 ae4fd1b4732eae971e640b041e7b79e5 *man/collect_events.Rd
 886a1007655f4e24138268297f962a78 *man/event.Rd
-26bb97bf7f27cb86b32e5c4c1e1df18b *man/figures/README-tensorboard-1.png
+bf9a6f0f06ecb29e54cb016e74c953ef *man/figures/README-tensorboard-1.png
 8834a583c5bf714cc08149a04b7b12f9 *man/get_default_logdir.Rd
 54200b1843937258bd784ab296d9aa80 *man/get_global_step.Rd
 833ee91e12095a8adf25ea4a6c41890a *man/hparams_hparam.Rd
@@ -40,7 +40,7 @@ c66e525859fadb230610a2e5aaa226e3 *man/summary_scalar.Rd
 9d89e7f7d1fabd405ad39dff88e95536 *man/summary_text.Rd
 32ab3cda83ad238ca8242d9e91bb9193 *man/value.Rd
 90ae6c3c4e3c5ba32a44a6734735d259 *src/Makevars.in
-753c019d9a144d575e5a9720a5664420 *src/Makevars.win
+8cbd9541945584728ec931e5af79a2fb *src/Makevars.win
 18347a620a358bcfa195c9be1b3d1b05 *src/RcppExports.cpp
 bf1c9ba5be8a4ea93c642712fb426d1a *src/as.h
 13b9c79bd1e714685bd3a21fa8f91e5a *src/code.cpp
@@ -65,7 +65,7 @@ e5a52b76a626e2cd67a207daa373897b *src/proto/tensor.proto
 7e444fd56639305f2d2e56653e281454 *src/proto/tensor_shape.proto
 aa90406505e232eb1b28c0c08a630643 *src/proto/types.proto
 c8991f9bfae464e2d4d5cea61b0ae6e8 *src/reader.cpp
-f62e1973d5dae2a1b62431c6ba8a58d9 *src/reader.h
+5ec98aa0d02199c1e3c46c6dc86f2eb8 *src/reader.h
 5aa62e4cafe10c8986d594a04faa3729 *src/record_writer.cpp
 d6dba21a813a2de010822d058bb87f05 *src/record_writer.h
 c5c769d2a58e0e5141004d2d494e5f2c *src/tensor.h
@@ -88,4 +88,4 @@ ae4d8a9bd690c837cc06f12476deb34d *tests/testthat/test-image.R
 e7331fbcd04538ed3df100aa05dd7106 *tests/testthat/test-read.R
 da88870ebeb5809f2b2427b25e166df8 *tests/testthat/test-tensor.R
 bf3251de5265bc8ca1aa89fb34077f83 *tests/testthat/test-text.R
-1f7a29f4ece3434c21455a04af12feec *tools/winlibs.R
+43714c58f8e87a0d7501ae1214a7893d *tools/winlibs.R
