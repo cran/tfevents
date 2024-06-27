@@ -1,6 +1,6 @@
 Package: tfevents
 Title: Write Events for 'TensorBoard'
-Version: 0.0.3
+Version: 0.0.4
 Authors@R: c(
     person("Daniel", "Falbel", email = "daniel@posit.co", role = c("aut", "cre", "cph")),
     person(family = "Posit, PBC", role = c("cph")),
@@ -14,7 +14,7 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 RoxygenNote: 7.2.3
 LinkingTo: Rcpp
-Imports: Rcpp, withr, fs, rlang, vctrs, ellipsis, blob, png, digest,
+Imports: Rcpp, withr, fs, rlang (>= 1.0.0), vctrs, blob, png, digest,
         cli, zeallot
 Suggests: testthat (>= 3.0.0), tibble, tidyr, reticulate, rmarkdown,
         ggplot2, tensorflow, wav
@@ -25,11 +25,11 @@ BugReports: https://github.com/mlverse/tfevents/issues
 Config/testthat/edition: 3
 Config/Needs/website: tensorflow, webshot2, keras
 NeedsCompilation: yes
-Packaged: 2024-05-06 14:14:39 UTC; dfalbel
+Packaged: 2024-06-27 12:24:11 UTC; dfalbel
 Author: Daniel Falbel [aut, cre, cph],
   Posit, PBC [cph],
   The tl::optional authors [cph] (For the vendored tl::optional code.),
   Mark Adler [cph] (For the included crc32c code.)
 Maintainer: Daniel Falbel <daniel@posit.co>
 Repository: CRAN
-Date/Publication: 2024-05-06 14:40:02 UTC
+Date/Publication: 2024-06-27 12:40:02 UTC

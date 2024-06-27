@@ -1,3 +1,5 @@
+# tfevents 0.0.4
+
 # tfevents 0.0.3
 
 * Fixed GCC 13 compilation issues. (#44)
